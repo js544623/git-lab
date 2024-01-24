@@ -7,7 +7,7 @@ user.email=js544623@ohio.edu
 
 4. Lists untracked files in red and instructs to use the git add command
 
-5. Displays the added file in green stating that it is ready for commit
+5. Displays the new added README file
 
 6. Displays both README and answers in green as being tracked and ready for commit
 
